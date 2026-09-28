@@ -1,0 +1,22 @@
+.container{
+  background-color: blue;
+  border: 3px solid black;
+  width: 300px;
+  height: 270px;
+  align-items: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.box{
+  background-color: palevioletred;
+  border: 3px solid brown;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  margin: 90px 90px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
